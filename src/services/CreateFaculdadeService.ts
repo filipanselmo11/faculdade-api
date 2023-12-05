@@ -15,7 +15,7 @@ class CreateFaculdadeService {
       data: {
         nome,
         email,
-        status: true,
+        status: true
       },
     });
 
